@@ -1,5 +1,7 @@
 {
-  "owner": "JumanaSakhnini",
+  "owner": {
+    "name": "JumanaSakhnini"
+  },
   "name": "my-marketplace",
   "plugins": [
     {
