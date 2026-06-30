@@ -7,7 +7,7 @@
     {
       "name": "browse-skill-optimizer",
       "source": {
-        "type": "github",
+        "source": "github",
         "repo": "JumanaSakhnini/browse-site-optimizer"
       }
     }
