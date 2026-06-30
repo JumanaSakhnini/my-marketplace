@@ -1,14 +1,11 @@
 {
-  "owner": {
-    "name": "JumanaSakhnini"
-  },
   "name": "my-marketplace",
   "plugins": [
     {
       "name": "browse-skill-optimizer",
       "source": {
-        "type": "github",
-        "repo": "JumanaSakhnini/browse-site-optimizer"
+        "type": "url",
+        "url": "https://github.com/JumanaSakhnini/browse-site-optimizer/releases/download/v1.0.0/plugin.zip"
       }
     }
   ]
