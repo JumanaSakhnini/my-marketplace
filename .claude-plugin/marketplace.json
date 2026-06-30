@@ -1,0 +1,12 @@
+{
+  "name": "my-marketplace",
+  "plugins": [
+    {
+      "name": "browse-skill-optimizer",
+      "source": {
+        "type": "github",
+        "repo": "JumanaSakhnini/browse-site-optimizer"
+      }
+    }
+  ]
+}
